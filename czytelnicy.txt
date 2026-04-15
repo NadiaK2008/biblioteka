@@ -1,0 +1,5 @@
+Adam|Nowak|CZ-001|
+Katarzyna|Wiśniewska|CZ-002|
+Piotr|Kowalski|CZ-003|
+Maria|Zielińska|CZ-004|
+Tomasz|Wójcik|CZ-005|

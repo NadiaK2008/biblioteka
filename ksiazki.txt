@@ -1,0 +1,10 @@
+Pan Tadeusz|Adam Mickiewicz|tak||
+Lalka|Bolesław Prus|tak||
+Quo Vadis|Henryk Sienkiewicz|tak||
+Ferdydurke|Witold Gombrowicz|tak||
+Solaris|Stanisław Lem|tak||
+Zbrodnia i kara|Fiodor Dostojewski|tak||
+Mały Książę|Antoine de Saint-Exupéry|tak||
+Wiedźmin: Ostatnie życzenie|Andrzej Sapkowski|tak||
+Dziady|Adam Mickiewicz|tak||
+Chłopi|Władysław Reymont|tak||
